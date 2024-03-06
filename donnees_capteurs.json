@@ -1,0 +1,8 @@
+{
+    "date 1": {
+        "temperature": 28.85,
+        "humidite": 43.16,
+        "distance": 57.02,
+        "taux_co2": 480.1
+    }
+}
